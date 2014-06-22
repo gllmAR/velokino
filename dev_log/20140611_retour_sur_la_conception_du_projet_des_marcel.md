@@ -5,7 +5,7 @@
 
 Document de conception : 
 
-<img src="assets/pyramideInteractivite_14mai.pdf" alt="pyramideInteractive" height=100% width=100%>
+[PyramideInteractivite_14mai](assets/pyramideInteractivite_14mai.pdf)
 
 <img src="assets/Capture d’écran 2014-05-14 à 11.32.19.png" height=100% width=100%>
 

@@ -1,7 +1,6 @@
 ## en Espace @Chromatik2014: 
 
-<a href="http://youtu.be/9Ysvo5sUBQg
-" target="_blank"><img src="http://img.youtube.com/vi/9Ysvo5sUBQg/0.jpg" 
+<a href="http://youtu.be/9Ysvo5sUBQg" target="_blank"><img src="http://img.youtube.com/vi/9Ysvo5sUBQg/0.jpg" 
 alt="Chromatik2014" width=100% height=100% border="10" /></a>
 
 ##Diurne: 

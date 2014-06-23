@@ -1,21 +1,9 @@
-veloKino
-========
-
-VeloKino est un projet qui étudie la réinjection cinétique et l'autonomie énergétique en interactivité.
-
-Ce projet s'inscris dans le cadre d'une maitrise en Média Expérimentale à l'UQAM réalisé par Guillaume Arseneault et débuté à l'automne 2013.
-
-
-## objectifs 
-* Créer un dispositif qui transforme l'énergie du mouvement en électricité 
-* Transformer l'énergie produite en phénomènes audio lumineux
-* Développer une expérience individuelle et collective 
-
-
+VéloKino
+-----
 
 ## intentions 
 
-VéloKino est une installation interactive alimentée par l’effort de l’interacteur.  VéloKino utilise une série de roue chacun couplés à une dynamo,  un condensateur,  une diode électroluminescente,  un haut-parleur et un microprocesseur.  Cet amalgame génére des compositions uniques lorsqu’un ou des utilisateurs sollicite l’installation.
+VéloKino est une installation interactive alimentée par l’effort de l’interacteur.  VéloKino utilise une série de vélos chacun couplés à une dynamo,  un condensateur,  une diode électroluminescente,  un haut-parleur et un microprocesseur.  Cet amalgame génére des compositions uniques lorsqu’un ou des utilisateurs sollicite l’installation.
 
 VéloKino ce veut une oeuvre qui inspire le changement d’un rapport de consommation avec l’énergie nécessaire pour nous divertir.
 Cette création s’articule autour de l’effort à fournir par le ou les participants pour alimenter lumières, haut-parleurs et électronique de contrôle.
@@ -67,10 +55,10 @@ Aller chercher un maximum de registre d’expression à travers un minimum de co
 
 ## diffusion
 
-* Une collaboration avec l’organisme Bixi est à planifier.
-* une diffusion de type furtive serait à tester en processus d’expérimentation
-* une diffusion en collaboration avec le partenariat du Quartier des spectacles est à envisager.  Je n’écarte pas la possibilité de coupler le système comme interface de contrôle pour un système de projection architecturale.
-* Le projet est exportable dans toutes les villes du monde disposant d’un service de vélo libre-service (Paris,  Bruxelle,  Toronto, Londres, etc. )
+•	 Une collaboration avec l’organisme Bixi est à planifier.
+•	 une diffusion de type furtive serait à tester en processus d’expérimentation
+•	 Une diffusion en collaboration avec le partenariat du Quartier des spectacles est à envisager.  Je n’écarte pas la possibilité de coupler le système comme interface de contrôle pour un système de projection architecturale.
+•	 Le projet est exportable dans toutes les villes du monde disposant d’un service de vélo libre-service (Paris,  Bruxelle,  Toronto, Londres, etc. )
 
 
 ## incertitudes 

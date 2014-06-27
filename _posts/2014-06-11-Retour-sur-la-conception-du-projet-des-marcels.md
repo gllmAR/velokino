@@ -9,4 +9,4 @@ Document de conception :
 [PyramideInteractivite_14mai](http://github.com/gllmAR/velokino/raw/gh_pages/_posts/assets/pyramideInteractivite_14mai.pdf)
 
 ![image](http://raw.githubusercontent.com/gllmAR/velokino/gh-pages/_posts/assets/demoStruct1.png)
-![image](http://raw.githubusercontent.com/gllmAR/velokino/gh-pages/_posts/assets/demoStruct2.png)
+![image](http://raw.githubusercontent.com/gllmAR/velokino/gh-pages/_posts/assets/demoStruct3.png)

@@ -1,3 +1,8 @@
+---
+layout : post
+title : Direction électrique
+---
+
 Dans le courant de l'été,  je m'affaire à développer l'alimentation électrique via le mouvement ainsi que la régulation vers 5 volt ou 3.3 volt.
 
 

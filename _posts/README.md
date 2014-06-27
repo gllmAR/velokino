@@ -1,3 +1,12 @@
+la path pour les assets 
+
+
+
+http://raw.githubusercontent.com/gllmAR/velokino/gh-pages/_posts/assets/
+
+
+
+
 * 2014/06/22 - Observation du premier commit
 	*	 Le pdf ne s'intègre pas bien à GitHub,  les images oui
 		* Utiliser la formule lien cliquable pour les pdf : [Pyramide.pdf](assets/pyramideInteractivite_14mai.pdf)

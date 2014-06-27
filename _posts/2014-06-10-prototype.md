@@ -1,5 +1,8 @@
+---
+layout : post
+title : Prototype
+---
 
-##Prototype :
 
 Réalisé avec les deux roues d'un vélo.  A permis de valider le concept et l'interactivité.
 

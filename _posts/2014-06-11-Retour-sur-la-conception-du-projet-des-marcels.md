@@ -1,4 +1,8 @@
-###Retour sur la conception du projet des Marcel
+---
+layout : post
+title : Retour sur la conception du projet des Marcel
+---
+
 **Crédits** :
    
 * Pyramide et mobilier :: La camaraderie 

@@ -8,3 +8,6 @@ Concernant Dynamo sans contact en utilisant des aimants
 Design intéressant 
 [http://www.magniclight.com/magniclight/index.php/en/startseite](http://www.magniclight.com/magniclight/index.php/en/startseite)
 [http://www.treehugger.com/gadgets/help-kickstart-first-compact-contactless-bicycle-dynamo.html](http://www.treehugger.com/gadgets/help-kickstart-first-compact-contactless-bicycle-dynamo.html)
+
+Concernant des controleur embarqué low énergie
+[http://content.solarbotics.com/products/documentation/synapse_comparison_table.pdf](http://content.solarbotics.com/products/documentation/synapse_comparison_table.pdf)

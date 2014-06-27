@@ -365,10 +365,10 @@ github_projects :
 #       name : Lowcountry Blues Club
 #       url : http://lowcountrybluesclub.blogspot.com
 external_links :
-  header : Artificiel
+  header : Hyperliens
   links :
     - link :
-      name : Artificiel (installation - performance / arts numériques)
+      name : Artificiel 
       url: http://artificiel.org
     - link :
       name : Gllm-Vimeo

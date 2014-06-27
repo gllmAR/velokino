@@ -23,7 +23,7 @@
 # url : https://thedereck.github.io
 # email : thedereck@thedereck.com
 # author : Dereck Curry
-markdown: kramdown
+# markdown: kramdown
 name : Guillaume Arseneault
 brand : Artificiel
 description : Réinjection cinétique et interactivité

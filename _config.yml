@@ -29,7 +29,7 @@ brand : VeloKino
 description : reinjection cinetique en interactivite
 url : https://gllmar.github.io/velokino
 email : guillaume.arseneault@gmail.com
-author: Dereck Curry
+author: Guillaume Arseneault
 
 
 # The following is a list of files to exclude from inclusion in the
@@ -79,7 +79,7 @@ favicon :
   enabled : true
   local :
     enabled : true
-    partial_url : /img/ghpb-favicon.png
+    partial_url : /img/gllm-favicon.png
     type : png
   remote :
     enabled : false

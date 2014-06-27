@@ -5,7 +5,7 @@
 patente en *rouge*{: style="color: red"}.
 
 
-![image](http://img.youtube.com/vi/h2qt2oX7weU/0.jpg){: width=100% height=100%}
+*![image](http://img.youtube.com/vi/h2qt2oX7weU/0.jpg)*{: width=100% height=100%}
 
 
 

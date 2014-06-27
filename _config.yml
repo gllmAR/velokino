@@ -23,13 +23,12 @@
 # url : https://thedereck.github.io
 # email : thedereck@thedereck.com
 # author : Dereck Curry
-# markdown: kramdown
-name : Guillaume Arseneault
-brand : Artificiel
-description : Réinjection cinétique et interactivité
-url : https://gllm.github.io/veloKino
-email : guillaume.arseneault@gmail.com
-author: Guillaume Arseneault
+name : gh-pages-blog
+brand : gh-pages-blog
+description : The Official gh-pages-blog GitHub Page
+url : https://thedereck.github.io/gh-pages-blog
+email : thedereck@thedereck.com
+author: Dereck Curry
 
 
 # The following is a list of files to exclude from inclusion in the

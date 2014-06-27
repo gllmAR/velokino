@@ -26,7 +26,7 @@
 markdown: kramdown
 name : Guillaume Arseneault
 brand : VeloKino
-description : reinjection cinetique en interactivite
+description : reinjection cinetique interactive
 url : https://gllmar.github.io/velokino
 email : guillaume.arseneault@gmail.com
 author: Guillaume Arseneault
@@ -78,13 +78,13 @@ notice : false
 favicon :
   enabled : true
   local :
-    enabled : true
-    partial_url : /img/gllm-favicon.png
+    enabled : false
+    partial_url : false
     type : png
   remote :
-    enabled : false
-    full_url : false
-    type : false
+    enabled : true
+    full_url : http://raw.githubusercontent.com/gllmAR/velokino/gh-pages/img/gllm-favicon.png
+    type : png
 
 
 # These are the sections of on the right hand column of the page (or at the
@@ -368,8 +368,11 @@ external_links :
   header : Artificiel
   links :
     - link :
-      name : Artificiel
+      name : Artificiel (installation - performance / arts numériques)
       url: http://artificiel.org
+    - link :
+      name : Gllm-Vimeo
+      url: https://vimeo.com/arseninc/videos
 
 
 # These are the Bootstrap settings. These Bootstrap settings will control both

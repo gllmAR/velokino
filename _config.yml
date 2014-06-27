@@ -23,6 +23,7 @@
 # url : https://thedereck.github.io
 # email : thedereck@thedereck.com
 # author : Dereck Curry
+markdown: kramdown
 name : gh-pages-blog
 brand : gh-pages-blog
 description : The Official gh-pages-blog GitHub Page

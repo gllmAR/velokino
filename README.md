@@ -18,7 +18,7 @@ Ce projet s'inscris dans le cadre d'une maitrise en Média Expérimentale à l'U
 
 VéloKino est une installation interactive alimentée par l’effort de l’interacteur.  VéloKino utilise une série de roue chacun couplés à une dynamo,  un condensateur,  une diode électroluminescente,  un haut-parleur et un microprocesseur.  Cet amalgame génére des compositions uniques lorsqu’un ou des utilisateurs sollicite l’installation.
 
-VéloKino ce veut une oeuvre qui inspire le changement d’un rapport de consommation avec l’énergie nécessaire pour nous divertir.
+VéloKino ce veut une oeuvre qui inspire le changement d’un rapport de consommation avec l’énergie nécessaire pour nous divertir.  VeloKino s'inscrit dans le média povera et est fortement influencée par des oeuvres comme *agit POV* 
 Cette création s’articule autour de l’effort à fournir par le ou les participants pour alimenter lumières, haut-parleurs et électronique de contrôle.
 Le tout,  dans l’objectif de créer un support audiovisuel, interactif autoalimenté et intégré au contexte urbain qui suggère par son utilisation une réflexion sur la consommation électrique individuelle et collective.
 
@@ -33,8 +33,8 @@ En ce sens, VéloKino combat l’obsolescence en utilisant un matériel volontai
 
 ## Genre
 
-VéloKino est une installation interactive qui explore les relations d’expression entre un témoin lumineux rouge vert bleu,  un haut-parleur, un microprocesseur et une source d’énergie fournie par un interacteur. 
-C’est une installation extérieure urbaine autoalimentée  qui s’intègre à un support déjà existant, soit les bornes de vélo-libre-service.  Chaque unité stationnaire révéle un comportement unique autonome qui s’harmonise, lorsqu’utilisé par plusieurs.  
+VéloKino est une étude sur l'interactivité qui explore les relations d’expression entre un témoin lumineux,  un haut-parleur, un microprocesseur et une source d’énergie fournie par un interacteur. 
+C’est une installation extérieure urbaine autoalimentée  qui peut s’intègrer à un support déjà existant, soit les bornes de vélo-libre-service.  Chaque unité stationnaire révéle un comportement unique autonome qui s’harmonise, lorsqu’utilisé par plusieurs.  
 
 
 ## Traitement esthétique

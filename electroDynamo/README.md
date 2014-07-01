@@ -1,8 +1,8 @@
 ## ElectroDynamo
 #### Objectif
-* extraire de l'electricité à partir d'un mouvement circulaire
-* développer les mécanismes de régulation électrique 
-* alimenter un microcontroleur
+* Extraire de l'electricité à partir d'un mouvement circulaire
+* Développer les mécanismes de régulation électrique 
+* Alimenter un microcontroleur
 
 #### Quoi faire / To do :
 

@@ -5,6 +5,8 @@
 #include <PinChangeInt.h>
 #include <ArdOSC.h>
 
+
+
 #define NUMSENSORS 4
 
 //Configurer adresse Ip du Arduino 
@@ -30,13 +32,16 @@ int pinMap[NUMSENSORS] = {
 
 int reversePinMap[70] = {
  //  0, 1, 2, 3, 4, 5, 6, 7, 8, 9,
-  -1,-1,-1,-1, 0,-1,-1, 1,-1,-1,
-  -1,-1,-1,-1, 2,-1,-1, 3,-1,-1,
+  -1,-1,-1,-1, 0,-1,-1, 2,-1,-1,
+  -1,-1,-1,-1, 1,-1,-1, 3,-1,-1,
   -1,-1,-1,-1,-1,-1,-1,-1,-1,-1,
   -1,-1,-1,-1,-1,-1,-1,-1,-1,-1,
   -1,-1,-1,-1,-1,-1,-1,-1,-1,-1,
   -1,-1,-1,-1,-1,-1,-1,-1,-1,-1,
   -1,-1,-1,-1,-1,-1,-1,-1,-1,-1};
+
+
+int soundPin[] = {0, 8, 9};
 
 byte mac[] = { 
   0xDE, 0xAD, 0xBE, 0xEF, 0xFD, 0xED };
@@ -52,11 +57,6 @@ int destPort=DESTPORT;
 OSCMessage global_mes;
 OSCMessage s[NUMSENSORS];
 
-//void send(char *buffer) {
-//  Udp.beginPacket(serverip, 8888);
-//  Udp.write(buffer);
-//  Udp.endPacket();
-//}
 
 void setup(){
 
@@ -68,7 +68,9 @@ void setup(){
     s[i].beginMessage("/ard/msg");
     s[i].addArgInt32(i);
 
-  }   
+  }  
+ for (int x=1; x <= 3; x++) {
+pinMode (soundPin[x], OUTPUT);} 
   
   //*** IP/ID management  ***//  à rentrer dans un if 
   EEPROM.write(0,AIP4); // one-time operation
@@ -87,9 +89,7 @@ void setup(){
   client.send(&global_mes);
   global_mes.flush(); //object data clear
 
-  //Udp.begin(9999);
-  //  sprintf(ReplyBuffer, "msg %i.%i.%i.%i: Setup done\n",ip[0],ip[1],ip[2],ip[3]);
-  //send(ReplyBuffer);
+
 }
 
 int valid = 0;
@@ -114,39 +114,32 @@ void twiddle() {
 void loop(){
   int sent=0;
   for (int i=0; i<NUMSENSORS ; i++) {
-    //    if (magnetometer[i].count>0 && (magnetometer[i].in == magnetometer[i].out)) {
     if (magnetometer[i].count>0 ) {
-      // sprintf(ReplyBuffer, "%i %lu %lu %i",i,magnetometer[i].in,magnetometer[i].out,magnetometer[i].count);
-
-//      global_mes.setAddress(destIp, destPort);
-//      global_mes.beginMessage("/ard/msg");
-//      global_mes.addArgInt32(i);
-// global_mes.addArgInt32(magnetometer[i].in);
-// global_mes.addArgInt32(magnetometer[i].out);
-//      //     global_mes.addArgInt32(magnetometer[i].count);
-//
-//      client.send(&global_mes);
-//      global_mes.flush(); //object data clear
-      
       client.send(&s[i]);
-      
+      playNote(i);
       magnetometer[i].count=0;
       sent=1;
-      //      send(ReplyBuffer);
+
     }
   }
   if (sent==0) {
     delay(10);
   }
-  //      global_mes.setAddress(destIp, destPort);
-  //      global_mes.beginMessage("/ard/msg");
-  //      global_mes.addArgInt32(8);
-  //  
-  //      client.send(&global_mes);
-  //      global_mes.flush(); //object data clear
-  //  delay(500);
 
 }
+
+void playNote(int i)
+{
+   for (int t=(400*(i+2)); t>=(100*(i+2)); t=t-500){
+    for (int x=1; x <= 3; x++){ //to5
+      tone(soundPin[x], t);
+      delay(12);
+      noTone(soundPin[x]);
+      delay(2);
+    }
+   }
+  }
+
 
 
 

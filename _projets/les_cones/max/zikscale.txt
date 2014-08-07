@@ -1,0 +1,4 @@
+1, major_Ionian 0 2 4 5 7 9 11;
+2, Mixolydian 0 2 4 5 7 9 10;
+3, minor_Dorian 0 2 3 5 7 9 10;
+4, minor_aeolian 0 2 3 5 7 8 10;

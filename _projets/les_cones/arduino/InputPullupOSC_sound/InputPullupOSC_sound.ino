@@ -12,14 +12,14 @@
 //Configurer adresse Ip du Arduino 
 #define AIP1 192
 #define AIP2 168
-#define AIP3 2
+#define AIP3 101
 #define AIP4 162
 
 //Configurer adresse Ip de destination
 #define DIP1 192
 #define DIP2 168
-#define DIP3 2
-#define DIP4 255
+#define DIP3 101
+#define DIP4 2
 
 //Définir port de destination
 #define DESTPORT 8888

@@ -1,0 +1,201 @@
+#N canvas 320 22 971 592 10;
+#X msg -422 264 devicename /dev/tty.usbserial-EN076927;
+#X obj -438 297 comport/comport 1 57600;
+#X obj -437 114 spigot;
+#X obj -383 115 tgl 15 0 empty empty empty 17 7 0 10 -262144 -1 -1
+1 1;
+#X obj -317 112 loadbang;
+#X msg -355 114 1;
+#X obj -442 -3 tgl 15 0 empty empty empty 17 7 0 10 -262144 -1 -1 1
+1;
+#X obj -442 -50 loadbang;
+#X msg -442 -26 1;
+#X obj -387 201 loadbang;
+#X obj -749 192 send~ left;
+#X obj -814 235 receive~ left;
+#X obj -815 192 send rgb1;
+#X obj -355 18 r rgb1;
+#X obj -782 139 metro 200;
+#X obj -799 139 tgl 15 0 empty empty empty 17 7 0 10 -262144 -1 -1
+0 1;
+#X obj -355 64 cyclone/zl join;
+#X obj -311 18 r rgb2;
+#X msg -432 200 close;
+#X obj -437 89 cyclone/zl reg;
+#X obj -584 148 metro 200;
+#X obj -605 149 tgl 15 0 empty empty empty 17 7 0 10 -262144 -1 -1
+0 1;
+#X obj -559 202 send~ right;
+#X obj -629 201 send rgb2;
+#X obj -806 260 receive~ right;
+#N canvas 2 52 450 300 soundRam 0;
+#X obj 27 39 inlet;
+#X obj 24 171 outlet;
+#X msg 26 81 index4 0.015748 0.0472441 0 0 \, index3 0 0.015748 0 0
+\, index2 0 0 0 0 \, index1 0.0629921 0.0944882 0.188976 0.393701 \,
+ratio2 0.16 \, ratio3 0.59 \, ratio4 0.99 \, ratio1 0.37 \, vol4 0.03
+\, vol3 2.24 \, vol2 1 \, vol1 2.02 \, R4 111 \, S4 97 \, D4 95.49
+\, A4 15 \, R3 36 \, S3 45.1 \, D3 57.04 \, A3 66.02 \, R2 292 \, S2
+25 \, D2 12 \, A2 115.91 \, R1 520 \, S1 42 \, D1 107 \, A1 143.85
+\,;
+#X obj 114 37 loadbang;
+#X connect 0 0 2 0;
+#X connect 2 0 1 0;
+#X connect 3 0 2 0;
+#X restore -533 170 pd soundRam;
+#N canvas 228 106 450 300 soundRam 0;
+#X obj 27 39 inlet;
+#X obj 24 171 outlet;
+#X msg 26 81 index4 0 0 0 0 \, index3 0.708661 0 0 0 \, index2 0 0
+0 0 \, index1 0 0 0 0 \, ratio2 1.4 \, ratio3 2 \, ratio4 0.5 \, ratio1
+2 \, vol4 0.38 \, vol3 1.4 \, vol2 0.5 \, vol1 0.7 \, R4 29 \, S4 22
+\, D4 94 \, A4 4 \, R3 17 \, S3 61 \, D3 153 \, A3 144 \, R2 292 \,
+S2 25 \, D2 17 \, A2 131 \, R1 506 \, S1 27 \, D1 76 \, A1 127 \,;
+#X obj 114 37 loadbang;
+#X connect 0 0 2 0;
+#X connect 2 0 1 0;
+#X connect 3 0 2 0;
+#X restore -718 160 pd soundRam;
+#X obj -815 161 grb_marcelGutz;
+#X obj -685 -46 mrpeach/udpreceive 8888;
+#X obj -685 -15 mrpeach/unpackOSC;
+#X obj -685 16 mrpeach/routeOSC /ard/msg;
+#X obj -815 34 route 0 1 2 3;
+#X obj -813 75 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
+-1 -1;
+#X obj -632 82 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
+-1 -1;
+#X msg -291 296 open;
+#X msg -420 244 devicename /dev/ttyUSB0;
+#X obj -813 357 dac~;
+#X obj -702 238 loadbang;
+#X obj -702 262 delay 500;
+#X msg -702 290 \; pd dsp 1;
+#X obj -441 39 send draw;
+#X obj -436 66 r draw;
+#X obj -441 17 metro 22;
+#X text -823 -18 artificiel@chromatic;
+#X text -821 5 21 mai 2014;
+#X obj -311 42 t b l;
+#X obj -629 170 grb_marcelGutz;
+#X obj -522 150 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
+-1 -1;
+#X obj -716 138 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
+-1 -1;
+#N canvas 0 22 450 300 limit 0;
+#X obj -798 32 spigot;
+#X msg -743 33 1;
+#X msg -744 55 0;
+#X obj -798 56 t b b b;
+#X obj -799 125 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
+-1 -1;
+#X obj -800 -28 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
+-1 -1;
+#X obj -782 8 loadbang;
+#X obj -779 83 delay 44;
+#X obj -777 -29 inlet;
+#X obj -773 124 outlet;
+#X connect 0 0 3 0;
+#X connect 1 0 0 1;
+#X connect 2 0 0 1;
+#X connect 3 0 4 0;
+#X connect 3 0 9 0;
+#X connect 3 1 7 0;
+#X connect 3 2 2 0;
+#X connect 5 0 0 0;
+#X connect 6 0 1 0;
+#X connect 7 0 1 0;
+#X connect 8 0 0 0;
+#X restore -813 97 pd limit;
+#N canvas 0 22 450 300 limit 0;
+#X obj -798 32 spigot;
+#X msg -743 33 1;
+#X msg -744 55 0;
+#X obj -798 56 t b b b;
+#X obj -799 125 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
+-1 -1;
+#X obj -800 -28 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
+-1 -1;
+#X obj -782 8 loadbang;
+#X obj -779 83 delay 44;
+#X obj -777 -29 inlet;
+#X obj -773 124 outlet;
+#X connect 0 0 3 0;
+#X connect 1 0 0 1;
+#X connect 2 0 0 1;
+#X connect 3 0 4 0;
+#X connect 3 0 9 0;
+#X connect 3 1 7 0;
+#X connect 3 2 2 0;
+#X connect 5 0 0 0;
+#X connect 6 0 1 0;
+#X connect 7 0 1 0;
+#X connect 8 0 0 0;
+#X restore -630 106 pd limit;
+#X obj -167 81 \$4 \$5 \$6 \$4 \$5 \$6 \$4 \$5 \$6 \$4 \$5 \$6 \$4
+\$5 \$6 \$4 \$5 \$6;
+#X obj -167 35 \$1 \$2 \$3 \$1 \$2 \$3 \$1 \$2 \$3 \$1 \$2 \$3 \$1
+\$2 \$3 \$1 \$2 \$3;
+#X msg -437 145 126 6 37 0 0 \$1 \$2 \$3 \$1 \$2 \$3 \$1 \$2 \$3 \$1
+\$2 \$3 \$1 \$2 \$3 \$1 \$2 \$3 \$4 \$5 \$6 \$4 \$5 \$6 \$4 \$5 \$6
+\$4 \$5 \$6 \$4 \$5 \$6 \$4 \$5 \$6 231;
+#X obj -683 80 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
+-1 -1;
+#X obj -719 81 bng 15 250 50 0 empty empty empty 17 7 0 10 -262144
+-1 -1;
+#X obj -807 305 *~ 1;
+#X obj -815 327 *~ 1;
+#X text -822 -41 Les MARCELs;
+#X connect 0 0 1 0;
+#X connect 2 0 53 0;
+#X connect 3 0 2 1;
+#X connect 4 0 5 0;
+#X connect 5 0 3 0;
+#X connect 6 0 42 0;
+#X connect 7 0 8 0;
+#X connect 8 0 6 0;
+#X connect 9 0 35 0;
+#X connect 11 0 57 0;
+#X connect 13 0 16 0;
+#X connect 14 0 27 0;
+#X connect 15 0 14 0;
+#X connect 16 0 19 1;
+#X connect 17 0 45 0;
+#X connect 18 0 1 0;
+#X connect 19 0 2 0;
+#X connect 20 0 46 0;
+#X connect 21 0 20 0;
+#X connect 24 0 56 0;
+#X connect 25 0 46 1;
+#X connect 26 0 27 1;
+#X connect 27 0 12 0;
+#X connect 27 1 10 0;
+#X connect 27 2 26 0;
+#X connect 28 0 29 0;
+#X connect 29 0 30 0;
+#X connect 30 0 31 0;
+#X connect 31 0 32 0;
+#X connect 31 0 55 0;
+#X connect 31 1 54 0;
+#X connect 31 2 33 0;
+#X connect 31 3 33 0;
+#X connect 32 0 49 0;
+#X connect 33 0 50 0;
+#X connect 34 0 1 0;
+#X connect 35 0 1 0;
+#X connect 37 0 38 0;
+#X connect 38 0 39 0;
+#X connect 41 0 19 0;
+#X connect 42 0 40 0;
+#X connect 45 0 16 0;
+#X connect 45 1 16 1;
+#X connect 46 0 23 0;
+#X connect 46 1 22 0;
+#X connect 46 2 25 0;
+#X connect 47 0 25 0;
+#X connect 48 0 26 0;
+#X connect 49 0 27 0;
+#X connect 50 0 46 0;
+#X connect 53 0 1 0;
+#X connect 56 0 36 1;
+#X connect 57 0 36 0;

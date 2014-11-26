@@ -3,12 +3,15 @@ inputPullupOsc
 
 Sert à détecter le passage d'un senseur et le transférer l'information via OSC 
 
-pour télécharger le projet à partir du Pi
+pour télécharger le projet à partir du Pi d'absollument rien
 
 	cd ~/Desktop
 	git clone https://github.com/gllmAR/velokino.git
 	
+pour updater le projet depuis le repository
 	
+	cd ~/Desktop/velokino
+	git pull origin master	
 
 
 require : 

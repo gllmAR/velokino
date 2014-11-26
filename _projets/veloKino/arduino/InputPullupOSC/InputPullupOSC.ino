@@ -27,7 +27,7 @@ byte mac[] = {
 
 OSCClient client;
 byte destIp[]  = { 
-  192, 168, 101, 255 };
+  192, 168, 111, 255 };
 
 int unique_id;
 char ReplyBuffer[120];      
@@ -57,7 +57,7 @@ void setup(){
   //*** IP/ID management  ***//
 #define IP1 192
 #define IP2 168
-#define IP3 101
+#define IP3 111
   EEPROM.write(0,162); // one-time operation
   unique_id = EEPROM.read(0);
   //**********************//
@@ -74,7 +74,8 @@ void setup(){
   client.send(&global_mes);
   global_mes.flush(); //object data clear
 
-
+Serial.begin(57600);
+Serial.println("helloSerial");
 
   //Udp.begin(9999);
   //  sprintf(ReplyBuffer, "msg %i.%i.%i.%i: Setup done\n",ip[0],ip[1],ip[2],ip[3]);
@@ -118,6 +119,9 @@ void loop(){
 //      global_mes.flush(); //object data clear
       
       client.send(&s[i]);
+//FallBackSerial
+int printBuffer = i;
+     Serial.println(printBuffer);
       
       magnetometer[i].count=0;
       sent=1;

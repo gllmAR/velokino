@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1024 768" enable-background="new 0 0 1024 768" xml:space="preserve">
+<text transform="matrix(1 0 0 1 48.6338 143.0201)" font-family="'UniversLTStd-LightCn'" font-size="9.6">Système d’acrochage s’intégrant à un cône</text>
+<text transform="matrix(1 0 0 1 48.6339 127.8199)" font-family="'UniversLTStd-LightCn'" font-size="9.6">Interaction mobilier urbain  / végétale</text>
+<text transform="matrix(1 0 0 1 48.6338 112.8867)" font-family="'UniversLTStd-Cn'" font-size="28.8">Arbol : </text>
+<circle fill="none" stroke="#4D4D4D" stroke-width="11" stroke-miterlimit="10" cx="200" cy="265" r="91"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="108.8" y1="269.6" x2="291.2" y2="269.6"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="200" y1="269.6" x2="200" y2="174.4"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="200" y1="269.6" x2="200" y2="356"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="200" y1="269.6" x2="138.1" y2="331.5"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="200" y1="269.6" x2="266.5" y2="203.1"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="200" y1="269.6" x2="134.8" y2="204.4"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="200" y1="269.6" x2="262" y2="331.6"/>
+<path fill="none" stroke="#000000" stroke-width="6" stroke-miterlimit="10" d="M524.6,291.4"/>
+<path fill="none" stroke="#000000" stroke-width="5" stroke-miterlimit="10" d="M196.9,270.9c13.9,0,15.5,45,15.5,100.5l5.2-2.9
+	c0-55.5-1.6-100.5-15.5-100.5"/>
+<line fill="none" stroke="#000000" stroke-width="6" stroke-miterlimit="10" x1="215.2" y1="369.6" x2="215.2" y2="415.2"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="209.1" y1="384" x2="221.1" y2="384"/>
+<line fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" x1="209.1" y1="390.3" x2="221.1" y2="390.3"/>
+<g>
+	<path fill="#4D4D4D" stroke="#000000" stroke-miterlimit="10" d="M524.7,186.5c0-6.2-1.4-11.2-3.8-11.2s-3.8,5-3.8,11.2v163
+		c0,6.2,1.4,11.2,3.8,11.2s4-5,4-11.2L524.7,186.5z"/>
+	<path fill="none" stroke="#000000" stroke-width="6" stroke-miterlimit="10" d="M501.1,381"/>
+	<polygon fill="none" stroke="#000000" stroke-miterlimit="10" points="532.2,269.2 507.9,269.2 512.6,366 527.5,366 	"/>
+	<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M520.4,365.9"/>
+	<rect x="517.7" y="363.8" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="5" height="43.8"/>
+	<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M524.7,386.4c0,2.6-2.1,0.8-4.6,0.8
+		c-2.6,0-4.6,1.8-4.6-0.8c0-2.6,2.1-4.6,4.6-4.6S524.7,383.8,524.7,386.4z"/>
+	<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M515.4,392.5c0-2.6,2.1-0.8,4.6-0.8
+		c2.6,0,4.6-1.8,4.6,0.8s-2.1,4.6-4.6,4.6S515.4,395,515.4,392.5z"/>
+</g>
+<g>
+	<path fill="#4D4D4D" stroke="#000000" stroke-miterlimit="10" d="M691,186.5c0-6.2-2.2-11.2-4.5-11.2c-2.3,0-4.5,5-4.5,11.2v163
+		c0,6.2,2.2,11.2,4.5,11.2c2.3,0,4.3-5,4.3-11.2L691,186.5z"/>
+	<path fill="none" stroke="#000000" stroke-width="6" stroke-miterlimit="10" d="M667.4,381"/>
+	<polygon fill="none" stroke="#000000" stroke-miterlimit="10" points="698.5,269.2 674.2,269.2 678.9,366 693.8,366 	"/>
+	<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M686.7,365.9"/>
+	<rect x="683.9" y="363.8" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="5" height="43.8"/>
+	<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M691,386.4c0,2.6-2.1,0.8-4.6,0.8
+		c-2.6,0-4.6,1.8-4.6-0.8c0-2.6,2.1-4.6,4.6-4.6C688.9,381.8,691,383.8,691,386.4z"/>
+	<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M681.7,392.5c0-2.6,2.1-0.8,4.6-0.8
+		c2.6,0,4.6-1.8,4.6,0.8s-2.1,4.6-4.6,4.6C683.8,397.1,681.7,395,681.7,392.5z"/>
+</g>
+<g>
+	<path fill="#4D4D4D" stroke="#000000" stroke-miterlimit="10" d="M860,186.5c0-6.2-1.9-11.2-4.2-11.2c-2.3,0-4.2,5-4.2,11.2v163
+		c0,6.2,1.9,11.2,4.2,11.2c2.3,0,4.2-5,4.2-11.2L860,186.5z"/>
+	<path fill="none" stroke="#000000" stroke-width="6" stroke-miterlimit="10" d="M836.4,381"/>
+	<polygon fill="none" stroke="#000000" stroke-miterlimit="10" points="867.5,269.2 843.2,269.2 847.9,366 862.8,366 	"/>
+	<path fill="none" stroke="#000000" stroke-miterlimit="10" d="M855.8,365.9"/>
+	<rect x="853" y="363.8" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="5" height="43.8"/>
+	<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M860,386.4c0,2.6-2.1,0.8-4.6,0.8
+		c-2.6,0-4.6,1.8-4.6-0.8c0-2.6,2.1-4.6,4.6-4.6S860,383.8,860,386.4z"/>
+	<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M850.7,391.5c0-2.6,2.1-0.8,4.6-0.8
+		c2.6,0,4.6-1.8,4.6,0.8s-2.1,4.6-4.6,4.6S850.7,394,850.7,391.5z"/>
+</g>
+<path fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" d="M210.4,395.5c0-2.6,2.1-0.8,4.6-0.8s4.6-1.8,4.6,0.8
+	c0,2.6-2.1,4.6-4.6,4.6C212.5,400.1,210.4,398,210.4,395.5z"/>
+<rect x="154.7" y="528.7" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="120.7" height="8.7"/>
+<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="174,527.7 210.4,386 219.7,386 
+	257.3,527.7 "/>
+<rect x="459.7" y="528.7" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="120.7" height="8.7"/>
+<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="479,527.7 515.4,386 524.7,386 
+	562.3,527.7 "/>
+<rect x="626.7" y="528.7" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="120.7" height="8.7"/>
+<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="646,527.7 682.4,386 691.7,386 
+	729.3,527.7 "/>
+<rect x="795.7" y="528.7" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="120.7" height="8.7"/>
+<polyline fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" points="815,527.7 851.4,386 860.7,386 
+	898.3,527.7 "/>
+<rect x="117.2" y="542" fill="none" stroke="#000000" stroke-width="2" stroke-miterlimit="10" width="197" height="71.3"/>
+</svg>

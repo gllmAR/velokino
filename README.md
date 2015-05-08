@@ -2,14 +2,20 @@
 veloKino
 ========
 
-VeloKino est un projet qui étudie la réinjection cinétique et l'autonomie énergétique en interactivité.
+VeloKino est une recherche-création axée sur la réinjection cinétique en interactivité.
 
-Ce projet s'inscris dans le cadre d'une maitrise en Média Expérimentale à l'UQAM réalisé par Guillaume Arseneault et débuté à l'automne 2013.
+Issues de variations autour des vélos stationnaires interactifs,  Vélokino explore le registre expressif entre un effort fourni et une réponse audiovisuelle. 
+
+Spécifiquement appliquée au mouvement de rotation cyclique, Vélokino à pour objectif  d'être une installation interactive autoalimentée et intégrée au contexte urbain.
+
+Par son usage,  l'installation cherche à suggérer une réflexion sur la consommation électrique individuelle et collective grandissante à l'ère du numérique.
+
+Ce projet s'inscrit dans le cadre d'une maitrise en Média expérimental à l'UQAM réalisé par Guillaume Arseneault et débuté à l'automne 2013.
 
 
 ## objectifs 
-* Créer un dispositif qui transforme l'énergie du mouvement en électricité 
-* Transformer l'énergie produite en phénomènes audio lumineux
+* Créer un dispositif qui transforme l'effort du mouvement en réponse audiovisuelle
+*  Transformer l'énergie produite en phénomènes audio lumineux
 * Développer une expérience individuelle et collective 
 
 

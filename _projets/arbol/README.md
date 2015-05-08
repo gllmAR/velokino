@@ -6,7 +6,7 @@
 
 * Matériaux : Arbre, pixels lumineux, fourches et roues de vélo.     
 
-![arbol](documentation/Arbol.jpg)
+![arbol](documentation/Arbol_sm.jpg)
 
  
 Français :

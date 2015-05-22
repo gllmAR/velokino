@@ -1,0 +1,39 @@
+{
+	"pattrstorage" : 	{
+		"name" : "fm",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"live.gain~" : [ 0.0 ],
+					"harmonie" : [ 1.0 ],
+					"brillance" : [ 0.1 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"live.gain~" : [ 0.0 ],
+					"harmonie" : [ 5.0 ],
+					"brillance" : [ 0.26 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"live.gain~" : [ 0.0 ],
+					"harmonie" : [ 3.0 ],
+					"brillance" : [ 1.08 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

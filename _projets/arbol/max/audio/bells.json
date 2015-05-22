@@ -1,0 +1,42 @@
+{
+	"pattrstorage" : 	{
+		"name" : "bells",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"depth" : [ 1.0 ],
+					"modul" : [ 2.0 ],
+					"varianceModul" : [ 1.0 ],
+					"variationDepth" : [ 0.0 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"depth" : [ 1.0 ],
+					"modul" : [ 3.04 ],
+					"varianceModul" : [ 1.47 ],
+					"variationDepth" : [ 0.1 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"depth" : [ 1.0 ],
+					"modul" : [ 5.0 ],
+					"varianceModul" : [ 1.0 ],
+					"variationDepth" : [ 0.64 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

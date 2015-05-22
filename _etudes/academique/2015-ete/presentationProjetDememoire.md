@@ -1,18 +1,26 @@
 
-##VéloKino
+##VéloKino (?)
 
-####Présentation du projet de Mémoire  
-VeloKino est une recherche-création axée sur la réinjection cinétique en interactivité. 
+* Prendre une twist que tout les projet pourrait s'appeler «velokino»
+* Changer de nom,  vélokino,  on l'a déjà fait
+* Nommer et documenter chacune des interventions des vélo stationnaire interactif.
+*  Électrocinétisme?
 
-Issues de variations autour des vélos stationnaires interactifs,  *VéloKino* explore le registre expressif entre un effort fourni et une réponse audiovisuelle. 
 
-Spécifiquement appliquée au mouvement de rotation cyclique, *VéloKino* à pour objectif  d'être une installation interactive autoalimentée et intégrée au contexte urbain.
+
+####Présentation du mémoire de recherche création 
+
+*VeloKino* est une recherche-création axée sur la réinjection cinétique en interactivité. 
+
+Issue de variations autour de vélos stationnaires interactifs,  *VéloKino* explore la la relation entre un effort fourni et une réponse audiovisuelle. 
+
+Spécifiquement appliquée au mouvement de rotation cyclique, *VéloKino* a pour objectif  d'être une installation interactive autonome et intégrée au contexte urbain.
 
 Par son usage,  l'installation cherche à suggérer une réflexion sur la consommation électrique individuelle et collective grandissante à l'ère du numérique.
 
 Ce projet s'inscrit dans le cadre d'une maitrise en Média expérimental à l'UQAM réalisé par Guillaume Arseneault et débuté à l'automne 2013.
 
-Dans le cadre du festival [Chromatic](http://festivalchromatic.com/montreal/) du 22 au 26 mai 2015,  [*Arbol*](http://festivalchromatic.com/montreal/portfolio_page/guillaume-arseneault-2/),  une ramification de *VéloKino* sera présenté.  
+Dans le cadre du festival [Chromatic](http://festivalchromatic.com/montreal/) du 22 au 26 mai 2015,  [*Arbol*](http://festivalchromatic.com/montreal/portfolio_page/guillaume-arseneault-2/),  une ramification de *VéloKino* sera présentée.  
 
 ### Arbol
 Arbol est une installation lumineuse interactive in situ qui a pour support un arbre vénérable. Fixées à des fourches inversées, des roues de vélo libérées de la friction du sol permettent d’interagir avec la sculpture. 

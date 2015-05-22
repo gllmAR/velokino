@@ -9,9 +9,12 @@
 <circle stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" cx="283.2" cy="272.9" r="10.4"/>
 <circle stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" cx="327.4" cy="272.9" r="10.4"/>
 <circle stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" cx="305.6" cy="304.4" r="10.4"/>
-<text transform="matrix(1 0 0 1 320.0186 281.6172)" fill="#F7F8F9" stroke="#000000" font-family="'ArialMT'" font-size="24.5871">1</text>
-<text transform="matrix(1 0 0 1 275.712 281.6172)" fill="#F7F8F9" stroke="#000000" font-family="'ArialMT'" font-size="24.5871">2</text>
-<text transform="matrix(1 0 0 1 298.9698 313.377)" fill="#F7F8F9" stroke="#000000" font-family="'ArialMT'" font-size="24.5871">3</text>
+<text transform="matrix(1 0 0 1 320.0186 281.6172)" fill="#F7F8F9" font-family="'ArialMT'" font-size="24.5871">1</text>
+<text transform="matrix(1 0 0 1 320.0186 281.6172)" fill="none" stroke="#000000" font-family="'ArialMT'" font-size="24.5871">1</text>
+<text transform="matrix(1 0 0 1 275.712 281.6172)" fill="#F7F8F9" font-family="'ArialMT'" font-size="24.5871">2</text>
+<text transform="matrix(1 0 0 1 275.712 281.6172)" fill="none" stroke="#000000" font-family="'ArialMT'" font-size="24.5871">2</text>
+<text transform="matrix(1 0 0 1 298.9698 313.377)" fill="#F7F8F9" font-family="'ArialMT'" font-size="24.5871">3</text>
+<text transform="matrix(1 0 0 1 298.9698 313.377)" fill="none" stroke="#000000" font-family="'ArialMT'" font-size="24.5871">3</text>
 <text transform="matrix(1 0 0 1 265.5558 208.3672)" font-family="'ArialMT'" font-size="24.5871">Femelle</text>
 <path id="path10360_1_" fill="#A0A0A0" stroke="#808080" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" d="
 	M509.5,237.3h5.3c1.5,0,2.6,1.4,2.6,3.1v4.2c9.1,10.1,14.6,23.4,14.6,38c0,31.4-25.5,56.9-56.9,56.9s-56.9-25.5-56.9-56.9
@@ -20,9 +23,12 @@
 <circle fill="#848484" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" cx="452.7" cy="272.9" r="10.4"/>
 <circle fill="#848484" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" cx="496.9" cy="272.9" r="10.4"/>
 <circle fill="#848484" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" cx="475.1" cy="304.4" r="10.4"/>
-<text transform="matrix(1 0 0 1 445.3487 282.6016)" fill="#F7F8F9" stroke="#000000" font-family="'ArialMT'" font-size="24.5871">1</text>
-<text transform="matrix(1 0 0 1 490.6339 281.1036)" fill="#F7F8F9" stroke="#000000" font-family="'ArialMT'" font-size="24.5871">2</text>
-<text transform="matrix(1 0 0 1 468.0089 312.8614)" fill="#F7F8F9" stroke="#000000" font-family="'ArialMT'" font-size="24.5871">3</text>
+<text transform="matrix(1 0 0 1 445.3487 282.6016)" fill="#F7F8F9" font-family="'ArialMT'" font-size="24.5871">1</text>
+<text transform="matrix(1 0 0 1 445.3487 282.6016)" fill="none" stroke="#000000" font-family="'ArialMT'" font-size="24.5871">1</text>
+<text transform="matrix(1 0 0 1 490.6339 281.1036)" fill="#F7F8F9" font-family="'ArialMT'" font-size="24.5871">2</text>
+<text transform="matrix(1 0 0 1 490.6339 281.1036)" fill="none" stroke="#000000" font-family="'ArialMT'" font-size="24.5871">2</text>
+<text transform="matrix(1 0 0 1 468.0089 312.8614)" fill="#F7F8F9" font-family="'ArialMT'" font-size="24.5871">3</text>
+<text transform="matrix(1 0 0 1 468.0089 312.8614)" fill="none" stroke="#000000" font-family="'ArialMT'" font-size="24.5871">3</text>
 <text transform="matrix(1 0 0 1 435.1026 208.3672)" font-family="'ArialMT'" font-size="24.5871">Male</text>
 <path id="path10360_3_" fill="#A0A0A0" stroke="#808080" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" d="
 	M332.2,559.8c34.7,0,62.8,28.2,62.8,62.8s-28.2,62.8-62.8,62.8s-62.8-28.2-62.8-62.8c0-16.1,6.1-30.8,16.1-42V576
@@ -31,9 +37,12 @@
 <circle stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" cx="299.7" cy="611.9" r="11.5"/>
 <circle stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" cx="364" cy="611.9" r="11.5"/>
 <circle stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" cx="332.2" cy="654.4" r="11.5"/>
-<text transform="matrix(1 0 0 1 355.8584 621.5363)" fill="#F7F8F9" stroke="#000000" font-family="'ArialMT'" font-size="27.1721">1</text>
-<text transform="matrix(1 0 0 1 291.4763 621.5363)" fill="#F7F8F9" stroke="#000000" font-family="'ArialMT'" font-size="27.1721">5</text>
-<text transform="matrix(1 0 0 1 324.8873 664.3439)" fill="#F7F8F9" stroke="#000000" font-family="'ArialMT'" font-size="27.1721">3</text>
+<text transform="matrix(1 0 0 1 355.8584 621.5363)" fill="#F7F8F9" font-family="'ArialMT'" font-size="27.1721">1</text>
+<text transform="matrix(1 0 0 1 355.8584 621.5363)" fill="none" stroke="#000000" font-family="'ArialMT'" font-size="27.1721">1</text>
+<text transform="matrix(1 0 0 1 291.4763 621.5363)" fill="#F7F8F9" font-family="'ArialMT'" font-size="27.1721">5</text>
+<text transform="matrix(1 0 0 1 291.4763 621.5363)" fill="none" stroke="#000000" font-family="'ArialMT'" font-size="27.1721">5</text>
+<text transform="matrix(1 0 0 1 324.8873 664.3439)" fill="#F7F8F9" font-family="'ArialMT'" font-size="27.1721">3</text>
+<text transform="matrix(1 0 0 1 324.8873 664.3439)" fill="none" stroke="#000000" font-family="'ArialMT'" font-size="27.1721">3</text>
 <text transform="matrix(1 0 0 1 287.9611 540.5851)" font-family="'ArialMT'" font-size="27.1721">Femelle</text>
 <path id="path10360_2_" fill="#A0A0A0" stroke="#808080" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" d="
 	M557.5,572.5h5.9c1.6,0,2.9,1.5,2.9,3.4v4.7c10,11.1,16.1,25.8,16.1,42c0,34.7-28.2,62.8-62.8,62.8s-62.8-28.2-62.8-62.8
@@ -42,36 +51,70 @@
 <circle fill="#848484" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" cx="487.1" cy="611.9" r="11.5"/>
 <circle fill="#848484" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" cx="551.4" cy="611.9" r="11.5"/>
 <circle fill="#848484" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" cx="519.6" cy="655.9" r="11.5"/>
-<text transform="matrix(1 0 0 1 478.9479 622.6241)" fill="#F7F8F9" stroke="#000000" font-family="'ArialMT'" font-size="27.1721">1</text>
-<text transform="matrix(1 0 0 1 544.4106 620.9689)" fill="#F7F8F9" stroke="#000000" font-family="'ArialMT'" font-size="27.1721">5</text>
-<text transform="matrix(1 0 0 1 511.6989 665.3156)" fill="#F7F8F9" stroke="#000000" font-family="'ArialMT'" font-size="27.1721">3</text>
+<text transform="matrix(1 0 0 1 478.9479 622.6241)" fill="#F7F8F9" font-family="'ArialMT'" font-size="27.1721">1</text>
+<text transform="matrix(1 0 0 1 478.9479 622.6241)" fill="none" stroke="#000000" font-family="'ArialMT'" font-size="27.1721">1</text>
+<text transform="matrix(1 0 0 1 544.4106 620.9689)" fill="#F7F8F9" font-family="'ArialMT'" font-size="27.1721">5</text>
+<text transform="matrix(1 0 0 1 544.4106 620.9689)" fill="none" stroke="#000000" font-family="'ArialMT'" font-size="27.1721">5</text>
+<text transform="matrix(1 0 0 1 511.6989 665.3156)" fill="#F7F8F9" font-family="'ArialMT'" font-size="27.1721">3</text>
+<text transform="matrix(1 0 0 1 511.6989 665.3156)" fill="none" stroke="#000000" font-family="'ArialMT'" font-size="27.1721">3</text>
 <text transform="matrix(1 0 0 1 475.3331 540.5851)" font-family="'ArialMT'" font-size="27.1721">Male</text>
 <circle stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" cx="357.8" cy="638.9" r="11.5"/>
-<text transform="matrix(1 0 0 1 349.6919 648.5157)" fill="#F7F8F9" stroke="#000000" font-family="'ArialMT'" font-size="27.1721">2</text>
+<text transform="matrix(1 0 0 1 349.6919 648.5157)" fill="#F7F8F9" font-family="'ArialMT'" font-size="27.1721">2</text>
+<text transform="matrix(1 0 0 1 349.6919 648.5157)" fill="none" stroke="#000000" font-family="'ArialMT'" font-size="27.1721">2</text>
 <circle stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" cx="306.2" cy="638.9" r="11.5"/>
-<text transform="matrix(1 0 0 1 298.0454 648.5157)" fill="#F7F8F9" stroke="#000000" font-family="'ArialMT'" font-size="27.1721">4</text>
+<text transform="matrix(1 0 0 1 298.0454 648.5157)" fill="#F7F8F9" font-family="'ArialMT'" font-size="27.1721">4</text>
+<text transform="matrix(1 0 0 1 298.0454 648.5157)" fill="none" stroke="#000000" font-family="'ArialMT'" font-size="27.1721">4</text>
 <circle fill="#848484" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" cx="494" cy="638.9" r="11.5"/>
-<text transform="matrix(1 0 0 1 485.8853 649.6036)" fill="#F7F8F9" stroke="#000000" font-family="'ArialMT'" font-size="27.1721">2</text>
+<text transform="matrix(1 0 0 1 485.8853 649.6036)" fill="#F7F8F9" font-family="'ArialMT'" font-size="27.1721">2</text>
+<text transform="matrix(1 0 0 1 485.8853 649.6036)" fill="none" stroke="#000000" font-family="'ArialMT'" font-size="27.1721">2</text>
 <circle fill="#848484" stroke="#000000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" cx="546.4" cy="638.9" r="11.5"/>
-<text transform="matrix(1 0 0 1 538.3029 649.6036)" fill="#F7F8F9" stroke="#000000" font-family="'ArialMT'" font-size="27.1721">4</text>
+<text transform="matrix(1 0 0 1 538.3029 649.6036)" fill="#F7F8F9" font-family="'ArialMT'" font-size="27.1721">4</text>
+<text transform="matrix(1 0 0 1 538.3029 649.6036)" fill="none" stroke="#000000" font-family="'ArialMT'" font-size="27.1721">4</text>
 <text transform="matrix(1 0 0 1 77.5003 114.5005)" font-family="'ArialMT'" font-size="24">Pin Out</text>
 <text transform="matrix(1 0 0 1 152.4965 151.9987)" font-family="'ArialMT'" font-size="24">Magnétomètre</text>
 <text transform="matrix(1 0 0 1 152.4964 475.9825)" font-family="'ArialMT'" font-size="24">LED</text>
 <text transform="matrix(1 0 0 1 77.5 78.5023)" font-family="'ArialMT'" font-size="24">Arbol</text>
 <text transform="matrix(1 0 0 1 670.3104 475.9821)" fill="#231F20" font-family="'ArialMT'" font-size="24.6746">Assurer le rétrofit XLR 3 standard</text>
-<text transform="matrix(1 0 0 1 668.1492 245.9821)"><tspan x="0" y="0" fill="#231F20" font-family="'ArialMT'" font-size="24.6746">1 : GND</tspan><tspan x="0" y="29.6" fill="#231F20" font-family="'ArialMT'" font-size="24.6746">2 : DATA 1</tspan><tspan x="0" y="59.2" fill="#231F20" font-family="'ArialMT'" font-size="24.6746">3 : DATA 2</tspan><tspan x="0" y="88.8" fill="#231F20" font-family="'ArialMT'" font-size="24.6746"> </tspan></text>
+<text transform="matrix(1 0 0 1 668.1492 245.9821)" fill="#231F20" font-family="'ArialMT'" font-size="24.6746">1 : GND</text>
+<text transform="matrix(1 0 0 1 668.1492 275.5821)" fill="#231F20" font-family="'ArialMT'" font-size="24.6746">2 : DATA 1</text>
+<text transform="matrix(1 0 0 1 668.1492 305.1821)" fill="#231F20" font-family="'ArialMT'" font-size="24.6746">3 : DATA 2</text>
+<text transform="matrix(1 0 0 1 668.1492 334.7821)" fill="#231F20" font-family="'ArialMT'" font-size="24.6746"> </text>
 <text transform="matrix(1 0 0 1 670.3104 515.0497)" fill="#231F20" font-family="'ArialMT'" font-size="24.6746">Pin out DMX standard vers XLR 3</text>
 <g>
-	<text transform="matrix(1 0 0 1 834.9454 603.775)"><tspan x="0" y="0" fill="#231F20" font-family="'AvenirNext-Bold'" font-size="20.5621">5 pin XLR</tspan><tspan x="0" y="24.7" fill="#231F20" font-family="'AvenirNext-Medium'" font-size="20.5621">Pin 1</tspan><tspan x="0" y="49.3" fill="#231F20" font-family="'AvenirNext-Medium'" font-size="20.5621">Pin 2</tspan><tspan x="0" y="74" fill="#231F20" font-family="'AvenirNext-Medium'" font-size="20.5621">Pin 3</tspan><tspan x="0" y="98.7" fill="#231F20" font-family="'AvenirNext-Medium'" font-size="20.5621">Pin 4</tspan><tspan x="0" y="123.4" fill="#231F20" font-family="'AvenirNext-Medium'" font-size="20.5621">Pin 5</tspan></text>
-	<text transform="matrix(1 0 0 1 960.3752 603.775)"><tspan x="0" y="0" fill="#231F20" font-family="'AvenirNext-Bold'" font-size="20.5621">3 pin XLR</tspan><tspan x="0" y="24.7" fill="#231F20" font-family="'AvenirNext-Medium'" font-size="20.5621">Pin 1</tspan><tspan x="0" y="49.3" fill="#231F20" font-family="'AvenirNext-Medium'" font-size="20.5621">Pin 2</tspan><tspan x="0" y="74" fill="#231F20" font-family="'AvenirNext-Medium'" font-size="20.5621">Pin 3</tspan><tspan x="0" y="98.7" fill="#231F20" font-family="'AvenirNext-Medium'" font-size="20.5621">Ø</tspan><tspan x="0" y="123.4" fill="#231F20" font-family="'AvenirNext-Medium'" font-size="20.5621">Ø</tspan></text>
-	<text transform="matrix(1 0 0 1 1096.085 603.775)"><tspan x="0" y="0" fill="#231F20" font-family="'AvenirNext-Bold'" font-size="20.5621">Signal</tspan><tspan x="0" y="24.7" fill="#231F20" font-family="'AvenirNext-Medium'" font-size="20.5621">Signal GND</tspan><tspan x="0" y="49.3" fill="#231F20" font-family="'AvenirNext-Medium'" font-size="20.5621">DMX Data -</tspan><tspan x="0" y="74" fill="#231F20" font-family="'AvenirNext-Medium'" font-size="20.5621">DMX Data +</tspan><tspan x="0" y="98.7" fill="#231F20" font-family="'AvenirNext-Medium'" font-size="20.5621">Aux Data -</tspan><tspan x="0" y="123.4" fill="#231F20" font-family="'AvenirNext-Medium'" font-size="20.5621">Aux Data +</tspan></text>
+	<text transform="matrix(1 0 0 1 864.9454 563.775)" fill="#231F20" font-family="'AvenirNext-Bold'" font-size="20.5621">5 pin XLR</text>
+	<text transform="matrix(1 0 0 1 864.9454 588.475)" fill="#231F20" font-family="'AvenirNext-Medium'" font-size="20.5621">Pin 1</text>
+	<text transform="matrix(1 0 0 1 864.9454 613.075)" fill="#231F20" font-family="'AvenirNext-Medium'" font-size="20.5621">Pin 2</text>
+	<text transform="matrix(1 0 0 1 864.9454 637.775)" fill="#231F20" font-family="'AvenirNext-Medium'" font-size="20.5621">Pin 3</text>
+	<text transform="matrix(1 0 0 1 864.9454 662.475)" fill="#231F20" font-family="'AvenirNext-Medium'" font-size="20.5621">Pin 4</text>
+	<text transform="matrix(1 0 0 1 864.9454 687.175)" fill="#231F20" font-family="'AvenirNext-Medium'" font-size="20.5621">Pin 5</text>
+	<text transform="matrix(1 0 0 1 990.3752 563.775)" fill="#231F20" font-family="'AvenirNext-Bold'" font-size="20.5621">3 pin XLR</text>
+	<text transform="matrix(1 0 0 1 990.3752 588.475)" fill="#231F20" font-family="'AvenirNext-Medium'" font-size="20.5621">Pin 1</text>
+	<text transform="matrix(1 0 0 1 990.3752 613.075)" fill="#231F20" font-family="'AvenirNext-Medium'" font-size="20.5621">Pin 2</text>
+	<text transform="matrix(1 0 0 1 990.3752 637.775)" fill="#231F20" font-family="'AvenirNext-Medium'" font-size="20.5621">Pin 3</text>
+	<text transform="matrix(1 0 0 1 990.3752 662.475)" fill="#231F20" font-family="'AvenirNext-Medium'" font-size="20.5621">Ø</text>
+	<text transform="matrix(1 0 0 1 990.3752 687.175)" fill="#231F20" font-family="'AvenirNext-Medium'" font-size="20.5621">Ø</text>
+	<text transform="matrix(1 0 0 1 1126.085 563.775)" fill="#231F20" font-family="'AvenirNext-Bold'" font-size="20.5621">Signal</text>
+	<text transform="matrix(1 0 0 1 1126.085 588.475)" fill="#231F20" font-family="'AvenirNext-Medium'" font-size="20.5621">Signal GND</text>
+	<text transform="matrix(1 0 0 1 1126.085 613.075)" fill="#231F20" font-family="'AvenirNext-Medium'" font-size="20.5621">DMX Data -</text>
+	<text transform="matrix(1 0 0 1 1126.085 637.775)" fill="#231F20" font-family="'AvenirNext-Medium'" font-size="20.5621">DMX Data +</text>
+	<text transform="matrix(1 0 0 1 1126.085 662.475)" fill="#231F20" font-family="'AvenirNext-Medium'" font-size="20.5621">Aux Data -</text>
+	<text transform="matrix(1 0 0 1 1126.085 687.175)" fill="#231F20" font-family="'AvenirNext-Medium'" font-size="20.5621">Aux Data +</text>
 	<g>
 		
-			<rect x="821.7" y="586.3" transform="matrix(1 -1.755312e-03 1.755312e-03 1 -1.1645 1.803)" fill="none" stroke="#231F20" stroke-miterlimit="10" width="409.9" height="156"/>
-		<line fill="none" stroke="#231F20" stroke-miterlimit="10" x1="818.1" y1="608.8" x2="1231.4" y2="608.1"/>
-		<line fill="none" stroke="#231F20" stroke-miterlimit="10" x1="947" y1="586.5" x2="947.2" y2="742.5"/>
-		<line fill="none" stroke="#231F20" stroke-miterlimit="10" x1="1086.8" y1="586.2" x2="1087.1" y2="742.2"/>
+			<rect x="851.7" y="546.3" transform="matrix(-1 1.755388e-03 -1.755388e-03 -1 2114.3972 1246.746)" fill="none" stroke="#231F20" stroke-miterlimit="10" width="409.9" height="156"/>
+		<line fill="none" stroke="#231F20" stroke-miterlimit="10" x1="848.1" y1="568.8" x2="1261.4" y2="568.1"/>
+		<line fill="none" stroke="#231F20" stroke-miterlimit="10" x1="977" y1="546.5" x2="977.2" y2="702.5"/>
+		<line fill="none" stroke="#231F20" stroke-miterlimit="10" x1="1116.8" y1="546.2" x2="1117.1" y2="702.2"/>
 	</g>
 </g>
-<text transform="matrix(1 0 0 1 648.5464 622.6224)"><tspan x="0" y="0" fill="#231F20" font-family="'AvenirNext-Medium'" font-size="18">1 - GND</tspan><tspan x="0" y="21.6" fill="#231F20" font-family="'AvenirNext-Medium'" font-size="18">2 - Data </tspan><tspan x="0" y="43.2" fill="#231F20" font-family="'AvenirNext-Medium'" font-size="18">3 - 5 Volt</tspan><tspan x="0" y="64.8" fill="#231F20" font-family="'AvenirNext-Medium'" font-size="18">4 - Clock</tspan><tspan x="0" y="86.4" fill="#231F20" font-family="'AvenirNext-Medium'" font-size="18">5 - 24 volt</tspan></text>
+<text transform="matrix(1 0 0 1 598.5464 582.6224)" fill="#231F20" font-family="'AvenirNext-Medium'" font-size="18">1 - GND</text>
+<text transform="matrix(1 0 0 1 598.5464 604.2224)" fill="#231F20" font-family="'AvenirNext-Medium'" font-size="18">2 - Data </text>
+<text transform="matrix(1 0 0 1 598.5464 625.8224)" fill="#231F20" font-family="'AvenirNext-Medium'" font-size="18">3 - 5 Volt</text>
+<text transform="matrix(1 0 0 1 598.5464 647.4224)" fill="#231F20" font-family="'AvenirNext-Medium'" font-size="18">4 - Clock</text>
+<text transform="matrix(1 0 0 1 598.5464 669.0223)" fill="#231F20" font-family="'AvenirNext-Medium'" font-size="18">5 - 24 volt</text>
+<text transform="matrix(1 0 0 1 716.5464 584.2001)" fill="#231F20" font-family="'AvenirNext-Medium'" font-size="18">1 - GND - Noir</text>
+<text transform="matrix(1 0 0 1 716.5464 605.8002)" fill="#231F20" font-family="'AvenirNext-Medium'" font-size="18">2 - Data  - Vert </text>
+<text transform="matrix(1 0 0 1 716.5464 627.4001)" fill="#231F20" font-family="'AvenirNext-Medium'" font-size="18">3 - 5 Volt - Red</text>
+<text transform="matrix(1 0 0 1 716.5464 649.0001)" fill="#231F20" font-family="'AvenirNext-Medium'" font-size="18">4 - Clock - Jaune</text>
+<text transform="matrix(1 0 0 1 716.5464 670.6001)" fill="#231F20" font-family="'AvenirNext-Medium'" font-size="18">5 - 24 volt - Blanc</text>
 </svg>

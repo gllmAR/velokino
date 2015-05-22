@@ -1,0 +1,31 @@
+{
+	"pattrstorage" : 	{
+		"name" : "ping",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"damp" : [ 3097.0 ],
+					"depth" : [ 0.0 ],
+					"harsh" : [ 20.0 ],
+					"volume" : [ 21.0 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"damp" : [ 1623.0 ],
+					"depth" : [ 143.0 ],
+					"harsh" : [ 116.0 ],
+					"volume" : [ 51.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

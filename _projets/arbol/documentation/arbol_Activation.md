@@ -32,6 +32,7 @@
 * déposer le boitier de contrôle sur le plastique par-dessus les boites de lait (si le plastique est humide,  essuyer et nettoyer)
 * ouvrir le devant du boitier (celui avec tous les connecteurs)
 * brancher tous les connecteurs XLR en suivant le code couleur et les chiffres indiqués
+![](_assets/connectique.jpg) 
 	* Vert : magnétomètre 
 	* Bleu : Controle des Pixels Lumineux
 	* Jaune : audio
@@ -96,3 +97,4 @@
 
 
 
+Je

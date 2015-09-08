@@ -20,7 +20,7 @@
 ### Description : 
 ####Français :
 
-*Arbol* est une installation lumineuse interactive in situ qui a pour support un arbre vénérable. Fixées à des fourches inversées, des roues de vélo libérées de la friction du sol permettent d’interagir avec la sculpture. La rotation de chacune des roues se transforme en impulsions ascendantes produisant une sève symbolique. Ce flux amorce son ascension à travers de larges tubes luminescents qui emmaillotent le tronc de l’arbre avant de se disperser vers les branches. L’expérience sonoluminescente d’*Arbol* s’articule autour de l'énergie dégagée par l'interaction collective, s’inscrivant ainsi dans une démarche d’exploration des potentialités de la réinjection cinétique.  
+*Arbol* est une installation lumineuse interactive in situ qui a pour support un arbre vénérable. Fixées à des fourches inversées, des roues de vélo libérées de la friction du sol permettent d’interagir avec la sculpture. La rotation de chacune des roues se transforme en impulsions ascendantes produisant une sève symbolique. Ce flux amorce son ascension à travers de larges tubes luminescents qui emmaillotent le tronc de l’arbre avant de se disperser vers les branches. L’expérience synesthésique d’*Arbol* s’articule autour de l'effort dégagée par l'interaction collective, s’inscrivant ainsi dans une démarche d’exploration des potenti	alités de la réinjection cinétique.  
 
 ####English :
 
@@ -95,6 +95,3 @@
 * Transporter le module de contrôle à l'horizontale dans l'endroit prévu à cet effet 
 
 
-
-
-Je

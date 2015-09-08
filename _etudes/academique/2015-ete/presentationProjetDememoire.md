@@ -1,5 +1,5 @@
 
-##VéloKino (?)
+## La réinjection cinétique en interactivité (?)
 
 * Prendre une twist que tout les projet pourrait s'appeler «velokino»
 * Changer de nom,  vélokino,  on l'a déjà fait
@@ -12,11 +12,11 @@
 
 *VeloKino* est une recherche-création axée sur la réinjection cinétique en interactivité. 
 
-Issue de variations autour de vélos stationnaires interactifs,  *VéloKino* explore la la relation entre un effort fourni et une réponse audiovisuelle. 
+Issue de variations autour de vélos stationnaires interactifs,  *VéloKino* explore la relation entre un effort fourni et une réponse audiovisuelle. 
 
 Spécifiquement appliquée au mouvement de rotation cyclique, *VéloKino* a pour objectif  d'être une installation interactive autonome et intégrée au contexte urbain.
 
-Par son usage,  l'installation cherche à suggérer une réflexion sur la consommation électrique individuelle et collective grandissante à l'ère du numérique.
+Par son usage,  l'installation cherche à suggérer 
 
 Ce projet s'inscrit dans le cadre d'une maitrise en Média expérimental à l'UQAM réalisé par Guillaume Arseneault et débuté à l'automne 2013.
 
